@@ -1,0 +1,1 @@
+printf("Pricha khankaeng 110")
